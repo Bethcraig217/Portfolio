@@ -1,0 +1,106 @@
+ body {
+     background-color: #B5C3FC;
+     text-align: center;
+     font-weight: 500;
+font-family: Ansichtkaart Demo;
+     font-weight: 700px;
+     font-style: normal;
+     font-size: 50px;
+   
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), radial-gradient(at top center, rgba(255, 255, 255, 0.40) 0%, rgba(0, 0, 0, 0.40) 120%) #989898;
+
+ }
+ h2{
+    border: none;
+ }
+ .name{ 
+    
+    font-size: 100px;
+    line-height: 39px;
+    font-weight: 600px;
+    color: #403c3c;
+    font-family: Creattion Demo;
+
+       
+ }
+ .navbar-brand{
+font-size: 50px;
+    line-height: 39px;
+    font-weight: 800px;
+    color: #403c3c;
+    font-family: Ansichtkaart Demo;
+ }
+ .navbar-nav{
+    font-size: 40px;
+    line-height: 39px;
+        font-weight: 800px;
+        color: #403c3c;
+        font-family: Ansichtkaart Demo;
+ }
+ .btn {
+    font-size: 50px;
+        line-height: 39px;
+        font-weight: 600px;
+        color: #403c3c;
+        font-family: Ansichtkaart Demo;
+ }
+ .email{
+        font-size: 50px;
+            line-height: 39px;
+            font-weight: 600px;
+            color: #403c3c;
+        font-family: Ansichtkaart Demo;
+ }
+
+
+ .moreinfo {
+     display: flex;
+     justify-content: center;
+     text-decoration: none;
+
+
+ }
+ .more{
+    font-family: Ansichtkaart Demo;
+    border-color: #000;
+    
+ }
+ .info{
+    border-color: none;
+ }
+
+ .about {
+     text-decoration: none;
+ }
+
+ .btn {
+        display: inline-block;
+            outline: 0;
+            font-family: Ansichtkaart Demo;
+            border: 0;
+            cursor: pointer;
+            text-decoration: none;
+            position: relative;
+            color: #000;
+            background: #fff;
+            line-height: 30px;
+            border-radius: 40px;
+            padding: 20px;
+            font-size: 30px;
+            font-weight: 600;
+            box-shadow: #403c3c -2px -2px 0px 2px, #B5C3FC 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
+            transition: all 0.2s;
+ }
+    
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+.btn-font{
+    font-size: 160px;
+    padding: 20, 20, 20, 20;
+}
+
